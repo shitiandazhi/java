@@ -11,6 +11,6 @@ public class p4 {
         //  ゲッターで値を呼び出し、内容を表示
         System.out.println(s.getNumber());
         System.out.println(s.getStr());
-	}
+ }
 
 }
