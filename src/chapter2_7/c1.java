@@ -8,7 +8,10 @@ public class c1 {
        System.out.println("平方根=" + ans1);
        
        double ans2 = Math.pow(2, 10);
-       System.out.println("平方根=" + ans1);
+       System.out.println("2の10乗=" + ans2);
+       
+       double ans3 = Math.random();
+       System.out.println("乱数=" + ans3);
 	}
 
 }
