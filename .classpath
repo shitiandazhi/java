@@ -6,5 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiti/Downloads/教材/java/jp.kwebs.lib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
