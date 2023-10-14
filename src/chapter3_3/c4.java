@@ -17,6 +17,6 @@ public class c4 {
 			total += p.population();
 		}
 			System.out.println("人口の合計=" + total);
-		}
-	}
+    }
+}
 
