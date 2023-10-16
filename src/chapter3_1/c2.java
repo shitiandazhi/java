@@ -13,6 +13,7 @@ public class c2 {
 		
 		System.out.println("合計=" + total);
 		System.out.println("平均=" + total/number.length);
+	
 	}
 
 }

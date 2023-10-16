@@ -7,6 +7,7 @@ public class c1 {
 		int[] number = {5, 12, 8, 21, 9};
 		
 		for(int n : number) {
+		
 			System.out.print(n + "\t");
 		}
 	}
