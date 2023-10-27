@@ -12,6 +12,7 @@ public class c2 {
 		case	30 	   ->	System.out.println("30です");
 		default		   ->	System.out.println("その他です");
 		}
+		
 	}
 
 }
