@@ -18,6 +18,7 @@ public class c3 {
         
         System.out.println();
         // アスリートの種目に応じたメソッドの実行
+        
         for(int i = 0; i < athlete.length; i++) {
             if(athlete[i] instanceof Swimmer) {
                 // 泳ぐメソッドの実行
