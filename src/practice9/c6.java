@@ -72,6 +72,7 @@ class Subordinate extends Employee {
             // トラブル例外オブジェクトのスロー
             throw new TroubleException();
         }
+        
         // キレなかった場合
         else {
             System.out.println("今回の" + workName + "はわたくし" +
