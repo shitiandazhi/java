@@ -9,6 +9,7 @@ public class c1 {
 	            System.out.println((idx + 1 ) + "番目の引数は「" + args[idx] + "」です。");
 	            
 	        }
+	        
 	}
 
 }
