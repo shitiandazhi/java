@@ -13,5 +13,4 @@ public class c4 {
         System.out.println( "x=" + x );
     }
 	
-
 }
